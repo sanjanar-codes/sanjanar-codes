@@ -163,16 +163,6 @@ https://github.com/sanjanar-codes
 
 ---
 
-# 📊 GitHub Stats
-
-> GitHub automatically displays these after you paste the markdown.
-
-![Sanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanar-codes&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanar-codes&layout=compact)
-
----
-
 # 📫 Connect With Me
 
 - 📧 LinkedIn: https://www.linkedin.com/in/sanjana-r-ise

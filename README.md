@@ -20,6 +20,8 @@ I enjoy solving coding problems and building practical projects.
 
 ### Programming Languages
 - Java
+- C++
+- Python (Basic)
 - SQL
 
 ### Core Subjects
